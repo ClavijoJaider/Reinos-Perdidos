@@ -10,7 +10,7 @@ Importante: Si deseas colocar un Crash Report completo, primero deberás publica
 
   ![](http://imgur.com/bnviVfU.png)
 1. Ahora llenamos el formulario que se abre, colocamos un título referente al problema y escribimos toda la descripción que sea necesaria. Es importante dejar enlaces a imágenes, videos o algún contenido que permita entender mejor el problema reportado. Al finalizar pulsamos el botón `Submit new issue`:  
-  ![](http://imgur.com/bV0O775.png)
+  ![](https://imgur.com/i4WxhRS.png)
 1. Esperamos respuesta por parte del staff. 
 ### Reportar lo Siguiente
 * Problemas para entrar al servidor o de conexión.
